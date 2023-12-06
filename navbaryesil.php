@@ -13,7 +13,7 @@
                     <div class="nav-listkonum">
                         <a href="sepetim.php">
                             <div class="navbaricon">
-                                <img src="assets/images/🦆 icon _shopping cart_.png" alt="">
+                                <img src="assets/images/icon_shoppingcart_.png" alt="">
                             </div>
                         </a>
                     </div>

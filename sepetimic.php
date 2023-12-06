@@ -70,7 +70,7 @@
         <div class="mobilsaguygulamagöster">
             <div class="özetsag col-md-4 col-12 mt-2 ">
                 <div>
-                    <img class="mt-2 mb-2 mr-5" src="assets/images/özetsaglogo.png" alt="">
+                    <img class="mt-2 mb-2 mr-5" src="assets/images/zetsaglogo.png" alt="">
                 </div>
                 <div>
                     <span class="sepetfontsag col-md-12">Holly puan indirimleri için mobil uygulamayı kullanmayı dene !</span>
@@ -129,7 +129,7 @@
             </div>
             <div class="özetsag webuygulamagöster col-md-4 ml-5">
                 <div>
-                    <img class="mt-2 mb-2" src="assets/images/özetsaglogo.png" alt="">
+                    <img class="mt-2 mb-2" src="assets/images/zetsaglogo.png" alt="">
                 </div>
                 <div>
                     <span class="sepetfontsag">Holly puan indirimleri için mobil uygulamayı kullanmayı dene !</span>
