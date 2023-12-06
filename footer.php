@@ -57,7 +57,7 @@
         <div class="footerkanal col-md-12">
             <div class="col-md-12" style="display: flex;align-items:center;justify-content:center;">
                 <span style="display: flex;justify-content:center;" class="col-md-3"><img class="kanallogomobil" src="assets/images/PowerTurkLogo Orijinal 1.png" alt=""></span>
-                <span style="display: flex;justify-content:center;" class="col-md-3"><img class="kanallogomobil" src="assets/images/+1 Logo Altın 1.png" alt=""></span>
+                <span style="display: flex;justify-content:center;" class="col-md-3"><img class="kanallogomobil" src="assets/images/Logoaltin.png" alt=""></span>
                 <span style="display: flex;justify-content:center;" class="col-md-3"><img class="kanallogomobil" src="assets/images/Jack lives here_filigramsiz_logo (2) (1) 1.png" alt=""></span>
             </div>
         </div>

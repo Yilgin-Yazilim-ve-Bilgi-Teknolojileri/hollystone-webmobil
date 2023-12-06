@@ -247,7 +247,7 @@
                         </div>
                         <div style="display:block;">
                             <div class="carddenemeresim">
-                                <img class="denemecardresimic" src="assets/images/gökhantürkmen.png" alt="">
+                                <img class="denemecardresimic" src="assets/images/GokhanTurkmen.png" alt="">
                             </div>
                             <div class="denemeresimyazi">
                                 <span class="denemyazifont">
@@ -317,6 +317,6 @@
         <span class="margintop20"><a href="yaklasandaha.php">daha fazlası</a></span>
     </div>
     <div style="margin-bottom: -80px;" class="hollyent">
-        <img class="mobilentlogo" src="assets/images/HollyTicket Yeşil.png" alt="">
+        <img class="mobilentlogo" src="assets/images/Hollyticketyesil.png" alt="">
     </div>
 </div>

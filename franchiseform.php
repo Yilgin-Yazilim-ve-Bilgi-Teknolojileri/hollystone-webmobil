@@ -16,12 +16,12 @@
                     </div>
                     <div class="row3cardbg col-3 col-md-3">
                         <span>
-                            <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/HollyStreet Yeşil.png" alt="">
+                            <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/Hollystreetyesil.png" alt="">
                         </span>
                     </div>
                     <div class="row3cardbg col-3 col-md-3">
                         <span>
-                            <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/HollyGarden Yeşil.png" alt="">
+                            <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/Hollygardenyesil.png" alt="">
                         </span>
                     </div>
                 </div>
@@ -155,12 +155,12 @@
                         </div>
                         <div class="row3cardbg col-3 col-md-3">
                             <span>
-                                <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/HollyStreet Yeşil.png" alt="">
+                                <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/Hollystreetyesil.png" alt="">
                             </span>
                         </div>
                         <div class="row3cardbg col-3 col-md-3">
                             <span>
-                                <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/HollyGarden Yeşil.png" alt="">
+                                <img class="mobilfranchiselogo webfranchiselogo" src="assets/images/Hollygardenyesil.png" alt="">
                             </span>
                         </div>
                     </div>

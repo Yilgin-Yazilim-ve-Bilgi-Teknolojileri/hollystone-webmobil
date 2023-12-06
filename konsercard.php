@@ -264,6 +264,6 @@
         <span class="margintop20"><a href="yaklasandaha.php">daha fazlası</a></span>
     </div>
     <div class="hollyticket">
-        <img src="assets/images/HollyTicket Yeşil.png" alt="">
+        <img src="assets/images/Hollyticketyesil.png" alt="">
     </div>
 </div>

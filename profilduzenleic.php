@@ -7,7 +7,7 @@
             <div>
                 <div style="margin-top:50px;">
                     <a href="">
-                        <img class="profileimg" src="assets/images/gitar-çalmaya-yeni-başlayanlara-tavsiyeler-1024x576.png" alt="">
+                        <img class="profileimg" src="assets/images/gitarbg.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-12 mb-5">

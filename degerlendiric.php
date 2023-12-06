@@ -15,7 +15,7 @@
                     <span class="iadeyazifont">kazan!</span>
                 </div>
                 <div style="display: flex;justify-content:flex-end;">
-                    <img class="mobilogo" src="assets/images/HollyPuan Yeşil.png" alt="">
+                    <img class="mobilogo" src="assets/images/Hollypuanyesil.png" alt="">
                 </div>
             </div>
         </div>

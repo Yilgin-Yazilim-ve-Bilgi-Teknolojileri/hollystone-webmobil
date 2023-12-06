@@ -41,7 +41,7 @@
         </div>
         <div class="webgirisicon">
             <div class="navbaricon">
-                <img style="width: 50px;height:50px;border-radius:50%;" src="assets/images/gitar-çalmaya-yeni-başlayanlara-tavsiyeler-1024x576.png" alt="">
+                <img style="width: 50px;height:50px;border-radius:50%;" src="assets/images/gitarbg.png" alt="">
             </div>
             <a href="sepetim.php">
                 <div class="navbaricon">

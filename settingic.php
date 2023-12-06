@@ -64,7 +64,7 @@
             <div class="ayarlarüst">
                 <div class="flexrow justaligncenter ">
                     <div>
-                        <img class="ayarlarüstimg" src="assets/images/gitar-çalmaya-yeni-başlayanlara-tavsiyeler-1024x576.png" alt="">
+                        <img class="ayarlarüstimg" src="assets/images/gitarbg.png" alt="">
                     </div>
                     <div>
                         <div>

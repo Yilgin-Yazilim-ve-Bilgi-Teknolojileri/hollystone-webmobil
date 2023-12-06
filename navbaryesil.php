@@ -2074,7 +2074,7 @@
     </div>
 
     <div style="margin-top: 50px;" class="hollyent">
-        <img class="mobilentlogo" src="assets/images/HollyTicket Yeşil.png" alt="">
+        <img class="mobilentlogo" src="assets/images/Hollyticketyesil.png" alt="">
     </div>
 </nav>
 <script>

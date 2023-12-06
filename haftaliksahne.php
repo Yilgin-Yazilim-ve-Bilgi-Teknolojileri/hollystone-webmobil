@@ -79,7 +79,7 @@
                                             </div>
                                             <div style="display:block;">
                                                 <div class="carddenemeresim">
-                                                    <img class="denemecardresimic" src="assets/images/gizemgünaç.png" alt="">
+                                                    <img class="denemecardresimic" src="assets/images/Gizemgunac.png" alt="">
                                                 </div>
                                                 <div class="denemeresimyazi">
                                                     <span class="denemyazifont">
@@ -133,7 +133,7 @@
                                             </div>
                                             <div style="display:block;">
                                                 <div class="carddenemeresim">
-                                                    <img class="denemecardresimic" src="assets/images/durumagöre.png" alt="">
+                                                    <img class="denemecardresimic" src="assets/images/Durumagore.png" alt="">
                                                 </div>
                                                 <div class="denemeresimyazi">
                                                     <span class="denemyazifont">
@@ -242,7 +242,7 @@
                                             </div>
                                             <div style="display:block;">
                                                 <div class="carddenemeresim">
-                                                    <img class="denemecardresimic" src="assets/images/gizemgünaç.png" alt="">
+                                                    <img class="denemecardresimic" src="assets/images/Gizemgunac.png" alt="">
                                                 </div>
                                                 <div class="denemeresimyazi">
                                                     <span class="denemyazifont">
@@ -406,7 +406,7 @@
                                             </div>
                                             <div style="display:block;">
                                                 <div class="carddenemeresim">
-                                                    <img class="denemecardresimic" src="assets/images/gizemgünaç.png" alt="">
+                                                    <img class="denemecardresimic" src="assets/images/Gizemgunac.png" alt="">
                                                 </div>
                                                 <div class="denemeresimyazi">
                                                     <span class="denemyazifont">
@@ -701,7 +701,7 @@
     </div>
     <div class="entarka">
         <div class="hollyent">
-            <img class="mobilentlogo" src="assets/images/HollyEnt Yeşil.png" alt="">
+            <img class="mobilentlogo" src="assets/images/Hollyentyesil.png" alt="">
         </div>
     </div>
     <div class="haftalikdeneme">

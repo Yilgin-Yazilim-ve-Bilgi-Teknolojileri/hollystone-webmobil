@@ -641,7 +641,7 @@
     </div>
     <div class="entarka">
         <div class="hollyent">
-            <img class="mobilentlogo" src="assets/images/HollyTicket Yeşil.png" alt="">
+            <img class="mobilentlogo" src="assets/images/Hollyticketyesil.png" alt="">
         </div>
     </div>
 </div>
